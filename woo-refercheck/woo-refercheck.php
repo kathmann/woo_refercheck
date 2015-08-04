@@ -64,10 +64,10 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
             include_once( WCRC_PATH . 'includes/functions.php' );
 
             // display the custom WCRC fields on every product edit page
-            add_action( 'woo_product_options_general_product_data', 'woo_refercheck_add_custom_general_fields' );
+            add_action( 'woocommerce_product_options_general_product_data', 'woo_refercheck_add_custom_general_fields' );
 
             // save the custom WCRC fields with the product
-            add_action( 'woo_process_product_meta', 'woo_refercheck_add_custom_general_fields_save' );
+            add_action( 'woocommerce_process_product_meta', 'woo_refercheck_add_custom_general_fields_save' );
 
             // hook the main check to the template redirection
             add_action( 'template_redirect', 'woo_refercheck_product_filter' );

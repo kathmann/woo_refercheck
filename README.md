@@ -19,7 +19,7 @@ Remember to set the visibility of your protected product to 'hidden', otherwise 
 
 ### Automatic installation
 
-Automatic installation is the easiest option as WordPress handles the file transfers itself and you don’t need to leave your web browser. To do an automatic install of WooCommerce ReferCheck, log in to your WordPress dashboard, navigate to the Plugins menu and click Add New.
+Automatic installation is the easiest option as WordPress handles the file transfers itself and you don’t need to leave your web browser. To do an automatic install of Woo ReferCheck, log in to your WordPress dashboard, navigate to the Plugins menu and click Add New.
 
 In the search field type “Woo ReferCheck” and click Search Plugins. Once you’ve found our plugin you can view details about it such as the the point release, rating and description. Most importantly of course, you can install it by simply clicking “Install Now”.
 

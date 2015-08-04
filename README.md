@@ -1,4 +1,4 @@
-# woo_refercheck
+# Woo ReferCheck
 A plugin for WooCommerce to enable filtering product display based on the referrer.
 
 ## Description

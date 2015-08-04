@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce ReferCheck\n"
+"POT-Creation-Date: 2015-08-04 10:22+0200\n"
+"PO-Revision-Date: 2015-08-04 10:22+0200\n"
+"Last-Translator: Mark Kathmann <mark@stackedbits.com>\n"
+"Language-Team: Mark Kathmann <mark@stackedbits.com>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: woo-refercheck.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/functions.php:49
+msgid "Limit to referrer(s)"
+msgstr "Beperk tot verwijzer(s)"
+
+#: includes/functions.php:50
+msgid ""
+"Select if the display of this product should be limited to the specified "
+"referrer(s)."
+msgstr ""
+"Selecteer als de weergave van dit product moet worden beperkt tot de "
+"opgegeven verwijzer(s)."
+
+#: includes/functions.php:58
+msgid "Allowed referrer(s)"
+msgstr "Toegestane verwijzer(s)"
+
+#: includes/functions.php:61
+msgid ""
+"Add the full HTTP addresseses of allowed referrer(s) for this product, one "
+"per line."
+msgstr ""
+"Vul de volledige HTTP adressen in van de toegestane verwijzer(s) voor dit "
+"product, een per regel."
+
+#: includes/functions.php:69
+msgid "Redirect to"
+msgstr "Stuur door naar"
+
+#: includes/functions.php:72
+msgid ""
+"Enter the absolute URL to redirect to when this product is accessed form an "
+"unallowed referer."
+msgstr ""
+"Vul de absolute URL in waar de bezoeker naartoe moet worden doorgestuurd als "
+"dit product vanuit een ongeldige verwijzer wordt geopend."
+
+#. Plugin Name of the plugin/theme
+msgid "Woo ReferCheck"
+msgstr "Woo ReferCheck"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/kathmann/woo_refercheck"
+msgstr "https://github.com/kathmann/woo_refercheck"
+
+#. Description of the plugin/theme
+msgid ""
+"A plugin for WooCommerce to enable filtering product display based on the "
+"referrer."
+msgstr ""
+"Een plugin voor WooCommerce om productweergave te kunnen filteren op basis "
+"van de verwijzer."
+
+#. Author of the plugin/theme
+msgid "Mark Kathmann"
+msgstr "Mark Kathmann"
+
+#. Author URI of the plugin/theme
+msgid "http://stackedbits.com"
+msgstr "http://stackedbits.com"
+
+#~ msgid "https://github.com/kathmann/woocommerce_refercheck"
+#~ msgstr "https://github.com/kathmann/woocommerce_refercheck"
+
+#~ msgid "WooCommerce ReferCheck"
+#~ msgstr "WooCommerce ReferCheck"
+
+#~ msgid "http://stackedbits.com/woo-refercheck"
+#~ msgstr "http://stackedbits.com/woo-refercheck"
+
+#~ msgid ""
+#~ "Select if the display of this product should be limited to the specified "
+#~ "referrer(s)"
+#~ msgstr ""
+#~ "Selecteer als de weergave van dit product moet worden beperkt tot de "
+#~ "opgegeven verwijzer(s)"
+
+#~ msgid ""
+#~ "Select if the display of this product should be limited to specified "
+#~ "referrers"
+#~ msgstr "Selecteer als de weergave van dit product moet worden beperkt tot "
+
+#~ msgid "Limit to referrer"
+#~ msgstr "Beperk tot verwijzer"
+
+#~ msgid "Limit to referer"
+#~ msgstr "Beperk tot verwijzer"
+
+#~ msgid ""
+#~ "Select if the display of this product should be limited to specified "
+#~ "referers"
+#~ msgstr ""
+#~ "Selecteer als het weergeven van het product bepert moet worden tot de "
+#~ "opgegeven verwijzers"
+
+#~ msgid "Allowed referers"
+#~ msgstr "Toegestane verwijzers"
+
+#~ msgid ""
+#~ "Add the full HTTP addresseses of allowed referers for this product, one "
+#~ "per line."
+#~ msgstr ""
+#~ "Voeg de volledige HTTP-adressen van toegestane verwijzers voor dit "
+#~ "product toe, een per regel."
+
+#~ msgid ""
+#~ "A plugin for WooCommerce to enable filtering product display based on the "
+#~ "referer."
+#~ msgstr ""
+#~ "Een plugin voor WooCommerce om productweergave te filteren op basis van "
+#~ "verwijzers."
